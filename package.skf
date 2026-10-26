@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-pagination"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Расчет пагинации и генерация диапазонов страниц."
+    репозиторий = "github.com/skytech-alt/skyforge-pagination"
+    точка_входа = "code/main.skf"
+    теги = ["pagination", "ui", "web"]
+    лицензия = "MIT"
+    зависимости = []
+}
